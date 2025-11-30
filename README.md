@@ -2,7 +2,7 @@
 <table style="border:none">
 <tr>
   <td style="vertical-align: top">
-    <img width="300" alt="my image" src="https://github.com/nnna1224.png" >
+    <img width="300" alt="my image" src="./assets/drgrl_alpha.png" >
   </td>
 
   <td>
