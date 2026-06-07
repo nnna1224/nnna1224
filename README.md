@@ -33,36 +33,37 @@
 
 ## About Me
 
-Hello, I'm **nnna1224**, a student at **University of Yamanashi**. 🍐
+Hello, I'm **nnna1224**.  
+I am currently studying and conducting research in computer science as a student at the **University of Yamanashi**. 🍐
 
-I work across **natural language processing, UI/UX design, game development, and web infrastructure**.  
-I also enjoy creating **2D illustrations and written works**, both as personal projects and through collaborative creative activities.
+Within computer science, I mainly work on **natural language processing, UI/UX design, game development, and web infrastructure**.  
+In addition, through both personal and collaborative creative activities, I also work across a wide range of fields, including the creation of **artistic works such as illustrations and novels**.
 
-I am interested in creating systems and works that are not only functional and accurate, but also considerate of users' contexts, emotions, and experiences.
+I am interested in creating systems and works that are not only functional, high-performing, and accurate, but also considerate of users' and viewers' contexts, emotions, experiences, and backgrounds.
 
-I am a member of the [G^2 circle](https://g-2-yama.github.io), a student creative circle focused on original games and other creative works.
+I am a member of [G^2, a game development circle](https://g-2-yama.github.io), where we create original games and other creative works.
 
 <br />
 
 ## What I Do
 
 - **UI/UX Design**  
-  Designing interfaces and user experiences for games, web projects, and interactive systems.
+  Designing interfaces and user experiences for games, websites, applications, and interactive systems.
 
-- **2D Illustration & Visual Creation**  
-  Creating illustrations, character visuals, and visual assets.
+- **Illustration & Visual Asset Creation**  
+  Creating 2D illustrations, character designs, and various visual assets.
 
 - **Game System Programming**  
-  Developing game systems and implementing interactive experiences.
+  Developing and implementing game systems.
 
 - **Web & Development Infrastructure**  
-  Building websites, maintaining development environments, and improving project workflows.
+  Building websites, maintaining development environments, and improving development methods and workflows.
 
-- **Creative Writing**  
-  Writing stories and developing worldbuilding for original creative works.
+- **Written Works, including Novels**  
+  Creating written works, including novels.
 
-- **Member Education**  
-  Creating onboarding materials, training websites, and learning resources for new members.
+- **Member Training & Education**  
+  Creating materials, training websites, and learning resources for new circle members.
 
 <br />
 
@@ -75,7 +76,7 @@ I am a member of the [G^2 circle](https://g-2-yama.github.io), a student creativ
 
 I conduct research in **Natural Language Processing**, focusing on **machine translation for low-resource languages**.
 
-My current research explores methods that combine neural machine translation systems with **large language models** to improve translation quality in low-resource settings.
+My current research aims to improve translation quality in low-resource settings by combining neural machine translation **(NMT)** systems with **large language models (LLMs)**.
 
 </details>
 
@@ -84,13 +85,13 @@ My current research explores methods that combine neural machine translation sys
 ## Experience
 
 <details>
-<summary>RAG-based system development and game development circle</summary>
+<summary>RAG-based system development and game development circle activities</summary>
 
 <br />
 
 ### RAG-based Internal Document Management System
 
-I work part-time at an IT company, where I am involved in developing an internal document management system using **RAG**.  
+As a part-time developer at an IT company, I am involved in developing an internal document management system using **RAG**.  
 As the project is currently under development, I cannot disclose further details at this time.
 
 ### Game Development Circle
@@ -152,12 +153,12 @@ PHP / Ruby / Unreal Engine / Blender / Kali Linux ...
 
 | Period | Activity |
 | --- | --- |
-| Apr. 2026 - Present | New member training website development |
-| Mar. 2026 - Present | Horror game project |
-| Nov. 2025 - Dec. 2025 | Official website development for G^2 circle |
-| Apr. 2025 - Present | Natural Language Processing research |
-| Nov. 2024 - Oct. 2025 | 3D action game project |
-| Nov. 2024 | Music game project |
+| Apr. 2026 - Present | Development of a training website for new circle members |
+| Mar. 2026 - Present | Horror game development |
+| Nov. 2025 - Dec. 2025 | Development of the official website for the G^2 circle |
+| Apr. 2025 - Present | Research on natural language processing and machine translation |
+| Nov. 2024 - Oct. 2025 | 3D action game development |
+| Nov. 2024 | Music game development |
 | Oct. 2024 - Present | Part-time system development at an IT company |
 
 </details>
@@ -166,7 +167,7 @@ PHP / Ruby / Unreal Engine / Blender / Kali Linux ...
 
 ## Portfolio
 
-For more details about my projects, works, and activities, please visit my portfolio site.
+For more details about me, please visit my portfolio site.
 
 > Coming soon... 🛠️  
-> This site is currently under construction.
+> My portfolio is currently under construction.
