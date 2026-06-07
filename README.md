@@ -7,14 +7,6 @@
 </p>
 
 <div align="center">
-  <img
-    src="./assets/header.png"
-    alt="header"
-    width="100%"
-  />
-
-  <br /><br />
-
   <p>You are the visitor number...</p>
   <img src="https://api.moedog.org/count/@nnna1224?theme=rule34" alt="profile visit counter for nnna1224" />
   <p>Thanks for stopping by 🐾</p>
