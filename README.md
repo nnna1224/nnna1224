@@ -11,7 +11,7 @@
   <img src="https://api.moedog.org/count/@nnna1224?theme=rule34" alt="profile visit counter for nnna1224" />
   <p>Thanks for stopping by 🐾</p>
 
-  <br />
+  <br /><br />
 
   <a href="#portfolio"><strong>Portfolio Site</strong></a>
   <br />
