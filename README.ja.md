@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="#自己紹介">About</a> ·
-  <a href="#できること">What I Do</a> ·
+  <a href="#何をしているか">What I Do</a> ·
   <a href="#研究">Research</a> ·
   <a href="#経験">Experience</a> ·
   <a href="#技術スタック--ツール">Tech Stack</a> ·
