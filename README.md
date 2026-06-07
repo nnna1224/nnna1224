@@ -18,16 +18,25 @@
   <p>You are the visitor number...</p>
   <img src="https://api.moedog.org/count/@nnna1224?theme=rule34" alt="profile visit counter for nnna1224" />
   <p>Thanks for stopping by 🐾</p>
+
+  <br />
+
+  <a href="#portfolio"><strong>Portfolio Site</strong></a>
+  <br />
+  <sup>Coming soon 🛠️</sup>
 </div>
 
-<br /><br />
+<br />
 
 <p align="center">
   <a href="#about-me">About</a> ·
+  <a href="#what-i-do">What I Do</a> ·
   <a href="#research">Research</a> ·
   <a href="#experience">Experience</a> ·
   <a href="#tech-stack--tools">Tech Stack</a> ·
   <a href="#projects--activities">Projects</a>
+  <br />
+  <br />
 </p>
 
 <br /><br />
@@ -69,13 +78,25 @@ I am a member of the [G^2 circle](https://g-2-yama.github.io), a student creativ
 
 ## Research
 
+<details>
+<summary>Machine translation for low-resource languages</summary>
+
+<br />
+
 I conduct research in **Natural Language Processing**, focusing on **machine translation for low-resource languages**.
 
-My current research explores methods that combine neural machine translation systems with **large language models** to improve translation quality in low-resource settings.  
+My current research explores methods that combine neural machine translation systems with **large language models** to improve translation quality in low-resource settings.
+
+</details>
 
 <br />
 
 ## Experience
+
+<details>
+<summary>RAG-based system development and game development circle</summary>
+
+<br />
 
 ### RAG-based Internal Document Management System
 
@@ -86,6 +107,8 @@ As the project is currently under development, I cannot disclose further details
 
 In my university game development circle, I have worked on UI/UX design, 2D illustration, system development, web infrastructure, and development environment maintenance.  
 I also served as the circle leader during my third undergraduate year.
+
+</details>
 
 <br />
 
@@ -119,6 +142,11 @@ PHP / Ruby / Unreal Engine
 
 ## Projects & Activities
 
+<details>
+<summary>Timeline of recent projects and activities</summary>
+
+<br />
+
 | Period | Activity |
 | --- | --- |
 | Apr. 2026 - Present | New member training website development |
@@ -129,7 +157,13 @@ PHP / Ruby / Unreal Engine
 | Nov. 2024 | Music game project |
 | Oct. 2024 - Present | Part-time system development at an IT company |
 
+</details>
+
 <br />
 
-Feel free to take a look at [my personal site](https://nnna1224.github.io/quartz) too.  
-It is currently an unmaintained Zettelkasten, but it reflects part of my learning process. 🦀
+## Portfolio
+
+For more details about my projects, works, and activities, please visit my portfolio site.
+
+> Coming soon... 🛠️  
+> This site is currently under construction.
