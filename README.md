@@ -110,8 +110,7 @@ I also served as the circle leader during my third undergraduate year.
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=rust,py,cpp,cs,ts,unity,docker,bash,react,git,github,arch,cloudflare,latex,md,neovim,npm,powershell,ubuntu,vscode,visualstudio,windows,apple&perline=12"
-    height="36"
+    src="https://skillicons.dev/icons?i=rust,py,cpp,cs,ts,unity,docker,bash,react,git,github,arch,cloudflare,latex,md,neovim,npm,powershell,ubuntu,vscode,visualstudio,windows,apple&perline=8"
   />
 </p>
 
@@ -121,8 +120,7 @@ Rust / Python / C++ / C# / TypeScript / Unity / Docker / ShellScript / React / G
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=js,java,go,c,django,nodejs,nextjs,vue,svelte,astro,postgres,mysql,lua,arduino,anaconda,azure,debian,eclipse,emacs,figma,gitlab,obsidian,pytorch,tauri,yarn&perline=12"
-    height="36"
+    src="https://skillicons.dev/icons?i=js,java,go,c,django,nodejs,nextjs,vue,svelte,astro,postgres,mysql,lua,arduino,anaconda,azure,debian,eclipse,emacs,figma,gitlab,obsidian,pytorch,tauri,yarn&perline=8"
   />
 </p>
 
@@ -132,8 +130,7 @@ JavaScript / Java / Go / C / Django / Node.js / Next.js / Vue.js / Svelte / Astr
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=php,ruby,unreal,blender,kali&perline=12"
-    height="36"
+    src="https://skillicons.dev/icons?i=php,ruby,unreal,blender,kali&perline=8"
   />
 </p>
 
