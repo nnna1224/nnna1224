@@ -106,35 +106,42 @@ I also served as the circle leader during my third undergraduate year.
 
 ## Tech Stack & Tools
 
+<details>
+<summary>Skill list</summary>
+
+<br />
+
 ### Main
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=rust,py,cpp,cs,ts,unity,docker,bash,react,git,github,arch,cloudflare,latex,md,neovim,npm,powershell,ubuntu,vscode,visualstudio,windows,apple&perline=24"
+    src="https://skillicons.dev/icons?i=rust,py,cpp,cs,ts,unity,docker,bash,react,git,github,arch,cloudflare,latex,md,neovim,npm,powershell,ubuntu,vscode,visualstudio,windows,apple&perline=16"
   />
 </p>
 
-Rust / Python / C++ / C# / TypeScript / Unity / Docker / ShellScript / React / Git / GitHub / Arch Linux / Cloudflare / LaTeX / Markdown / Neovim / npm / PowerShell / Ubuntu / VS Code / Visual Studio / Windows / macOS
+Rust / Python / C++ / C# / TypeScript / Unity / Docker / ShellScript / React / Git / GitHub / Arch Linux / Cloudflare / LaTeX / Markdown / Neovim / npm / PowerShell / Ubuntu / VS Code / Visual Studio / Windows / macOS ...
 
 ### Experienced
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=js,java,go,c,django,nodejs,nextjs,vue,svelte,astro,postgres,mysql,lua,arduino,anaconda,azure,debian,eclipse,emacs,figma,gitlab,obsidian,pytorch,tauri,yarn&perline=24"
+    src="https://skillicons.dev/icons?i=js,java,go,c,django,nodejs,nextjs,vue,svelte,astro,postgres,mysql,lua,arduino,anaconda,azure,debian,eclipse,emacs,figma,gitlab,obsidian,pytorch,tauri,yarn&perline=16"
   />
 </p>
 
-JavaScript / Java / Go / C / Django / Node.js / Next.js / Vue.js / Svelte / Astro / PostgreSQL / MySQL / Lua / Arduino / Anaconda / Azure / Debian / Eclipse / Emacs / Figma / GitLab / Obsidian / PyTorch / Tauri / Yarn
+JavaScript / Java / Go / C / Django / Node.js / Next.js / Vue.js / Svelte / Astro / PostgreSQL / MySQL / Lua / Arduino / Anaconda / Azure / Debian / Eclipse / Emacs / Figma / GitLab / Obsidian / PyTorch / Tauri / Yarn ...
 
 ### Familiar
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=php,ruby,unreal,blender,kali&perline=24"
+    src="https://skillicons.dev/icons?i=php,ruby,unreal,blender,kali&perline=16"
   />
 </p>
 
-PHP / Ruby / Unreal Engine / Blender / Kali Linux
+PHP / Ruby / Unreal Engine / Blender / Kali Linux ...
+
+</details>
 
 <br />
 
